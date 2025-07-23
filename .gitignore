@@ -1,0 +1,14 @@
+# Node
+todo_backend/node_modules
+todo_backend/.env
+
+# Vue
+todo_frontend/node_modules
+todo_frontend/dist
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
